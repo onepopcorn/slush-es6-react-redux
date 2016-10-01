@@ -1,0 +1,9 @@
+# OS files
+[Tt]humbs.db
+desktop.ini
+.DS_Store
+
+# Project files & folders
+node_modules
+.sass-cache
+bin

@@ -1,0 +1,8 @@
+[Tt]humbs.db
+desktop.ini
+.DS_Store
+
+node_modules/
+temp
+*.log
+.idea
